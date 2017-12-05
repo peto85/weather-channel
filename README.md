@@ -1,5 +1,5 @@
 # Weather channel
-1) Instalar dependencias mediante `$yarn` o `$npm install`.
+1) Instalar dependencias mediante `yarn` o `npm install`.
 2) Para arrancar, el script es simplemente `yarn start` o `npm start`.
 3) Se usa webpack-dev-server con valores por defecto, una vez arrancada el bundle puede ser visto en [http://localhost:8080].
 
