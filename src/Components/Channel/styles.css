@@ -1,0 +1,16 @@
+.container {
+  min-height: 180px;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid  #4464AD;
+}
+
+.temperature {
+  color: #7D4600;
+  font-size: 20px;
+  margin-right: 12px;
+}
+
+.location {
+  font-size: 20px;
+}

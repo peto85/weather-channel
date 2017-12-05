@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+}
+
+.row {
+  margin-top: 20px;
+}
+
+.timer {
+  display: block;
+  text-align: center;
+  font-size: 9px;
+}
